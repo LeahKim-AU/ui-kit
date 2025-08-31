@@ -7,11 +7,11 @@ type User = {
   email: string;
 };
 
-const columns = [
+const columns: Array<{ key: keyof User; label: string }> = [
   { key: "name", label: "이름" },
   { key: "age", label: "나이" },
   { key: "email", label: "이메일" },
-] as const;
+]; 
 
 const data: User[] = [
   { name: "홍길동", age: 28, email: "hong@test.com" },

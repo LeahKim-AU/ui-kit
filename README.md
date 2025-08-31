@@ -4,7 +4,7 @@ React + TypeScript + Vite 기반의 UI 컴포넌트 라이브러리입니다.
 Storybook을 사용해 컴포넌트를 문서화하고, GitHub Pages를 통해 배포했습니다.
 
 ## 📖 Live Demo
-👉 [Storybook 데모 보러가기](https://LeahKim-AU.github.io/ui-kit/)
+👉 [Storybook 데모 보러가기](https://LeahKim-dev.github.io/ui-kit/)
 
 ## ✨ Features
 - **Button**: variant/size/loading 상태 지원
@@ -31,7 +31,7 @@ src/
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/LeahKim-AU/ui-kit.git
+git clone https://github.com/LeahKim-dev/ui-kit.git
 cd ui-kit
 yarn install
 yarn storybook
