@@ -21,13 +21,14 @@ Storybook을 사용해 컴포넌트를 문서화하고, GitHub Pages를 통해 �
 - GitHub Actions (자동 배포)
 
 ## 📂 Project Structure
+```
 src/
 └─ stories/
 ├─ Button.tsx / Button.stories.tsx
 ├─ Input.tsx / Input.stories.tsx
 ├─ Modal.tsx / Modal.stories.tsx
 └─ Table.tsx / Table.stories.tsx
-
+```
 
 ## 🚀 Getting Started
 ```bash
